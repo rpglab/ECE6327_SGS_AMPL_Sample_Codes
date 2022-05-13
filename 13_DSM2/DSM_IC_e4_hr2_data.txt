@@ -1,0 +1,6 @@
+param: GEN:  gen_min gen_max gen_RRlimit gen_OpCost gen_NlCost gen_SuCost gen_Init:=
+	1   40  80   25  10  100 800  80
+	2   20  90   30  30  50  100  20;
+
+param: PERIOD: Time_TotalPd :=
+	1   70;

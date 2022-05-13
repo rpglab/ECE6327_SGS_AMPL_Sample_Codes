@@ -1,0 +1,13 @@
+param: GEN:  gen_type genMinCap genMaxCap genInitCost genOpCost genCapFactor:=
+	1   "Solar"          100    4000  1000  0     0.25
+	2   "Diesel"         100    1500  500   0.2   1.00
+	3   "Microturbine"   100    2000  500   0.3   1.00 ;
+
+param: STORAGE: ES_MinP ES_MaxP ES_Duration ES_InitCost ES_SOC_Min ES_SOC_Max ES_EffiC ES_EffiD :=
+	1   100  600  4  1500   0.1  0.9  1  1;
+
+param: PERIOD: Time_TotalPd GridPrice:=
+	1   2500  0.3      # 8am - 16pm
+	2   1000  0.6
+	3   1000  0.1;	
+
