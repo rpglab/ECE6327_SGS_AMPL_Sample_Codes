@@ -11,6 +11,11 @@ The course materials such as lecture slides and assignments can be found in the 
 * https://rpglab.github.io/resources/ECE6327-SGS/
 
 
+## AMPL Tutorial Lecture:
+The AMPL Tutorial Lecture is available at Youtube: 
+https://www.youtube.com/watch?v=fQXqZeEAknM
+
+
 ## Contact:
 Dr. Xingpeng Li
 
