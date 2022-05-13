@@ -12,8 +12,8 @@ The course materials such as lecture slides and assignments can be found in the 
 
 
 ## AMPL Tutorial Lecture:
-The AMPL Tutorial Lecture is available at Youtube: 
-https://www.youtube.com/watch?v=fQXqZeEAknM
+The AMPL Tutorial Lecture is available on Youtube: 
+* https://www.youtube.com/watch?v=fQXqZeEAknM
 
 
 ## Contact:
